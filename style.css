@@ -1,0 +1,34 @@
+*{
+    background-color: #231955;
+}
+h1{
+    font-size: 10rem;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    color: #FFC18E;
+}
+.container{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.dice{
+    display: inline-block;
+    text-align: center;
+    margin: 20px;
+}
+.dice p{
+    font-size: 2rem;
+    color: #FCF8E8;
+    font-family: 'Rubik', cursive;
+    
+}
+.img{
+    width: 70%;
+}
+footer p{
+    text-align: center;
+    font-size: 2rem;
+    color: #C8B6E2;
+    margin-top: 50px;
+}
